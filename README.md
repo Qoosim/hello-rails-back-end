@@ -1,24 +1,73 @@
-# README
+# hello-rails-back-end
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Things you may want to cover:
+# React-Rails Practise 
 
-* Ruby version
+This is a project for getting myself acquainted with integrating a rails app with react as one full-stack web application.
 
-* System dependencies
 
-* Configuration
+## Frontend Link
 
-* Database creation
+[Frontend link](https://github.com/Qoosim/hello-react-front-end)
 
-* Database initialization
+## Built With
 
-* How to run the test suite
+- Ruby
+- Rails
+- Postgresql
 
-* Services (job queues, cache servers, search engines, etc.)
+## Getting Started
 
-* Deployment instructions
 
-* ...
+To get a local copy up and running follow these simple example steps.
+
+Start by cloning the repository.
+
+`git@github.com:Qoosim/hello-rails-back-end.git`
+
+Navigate to the created folder.
+
+`cd hello-rails-back-end`
+
+### Prerequisites
+
+- A Command Line Interface.
+- Having Ruby installed.
+- Setup Rails
+
+### Install
+
+To install rails, run `gem install rails on your terminal`
+
+### Usage
+
+### Run tests
+
+To run tests enter `rspec` command on your terminal
+
+## Author
+
+👤 **Qoosim AbdulGhaniyy**
+
+- GitHub: [@githubhandle](https://github.com/Qoosim)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/qoosim)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
