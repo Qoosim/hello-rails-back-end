@@ -38,9 +38,15 @@ Navigate to the created folder.
 
 ### Install
 
-To install rails, run `gem install rails on your terminal`
+To install rails, run 
+```
+  gem install rails on your terminal
+```
 
 ### Usage
+Run the following commands to get your database prepare
+```
+    rails db:create, rails db:migrate, rails db:seed
 
 ### Run tests
 
